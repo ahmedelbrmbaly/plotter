@@ -16,7 +16,7 @@
 
 # Task01: Plotter
 
-This is an implemtation for a function plotter.
+This is an implementation for a function plotter.
 <br>
 
 ### User enters
@@ -24,7 +24,7 @@ This is an implemtation for a function plotter.
 * Polynomial Function
 * Values Range
 
-Then the app plots the graph on the the spcifed range.
+Then the app plots the graph on the specified range.
 <br><br>
 
 ## Prerequisites
@@ -44,7 +44,7 @@ Then the app plots the graph on the the spcifed range.
 
 ## Task Requirements Progress
 
-1. Write a GUI program that plots arbitrary user-entered function.
+1. Write a GUI program that plots arbitrary user-entered functions.
 ![100%](https://progress-bar.dev/100/)
 2. Take a function of x from the user, e.g., 5*x^3 + 2*x.
 ![100%](https://progress-bar.dev/100/)
@@ -58,7 +58,7 @@ Then the app plots the graph on the the spcifed range.
 ![50%](https://progress-bar.dev/50/)
 7. Display messages to the user to explain any wrong input.
 ![50%](https://progress-bar.dev/50/)
-8. You may use programming language and platform of your choice.
+8. You may use the programming language and platform of your choice.
 ![100%](https://progress-bar.dev/100/)
 9. You must test your program. Include the testing codes in your repository.
 ![0%](https://progress-bar.dev/0/)
