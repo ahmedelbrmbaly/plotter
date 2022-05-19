@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/cmqZM1lFsKHqo/giphy.gif" width="200"/>
+</div>
+
+<br>
+
 <div id="badges" align="center">
  <a href="#">
     <img src="https://img.shields.io/badge/python-version?style=for-the-badge&logo=python&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,6 +23,27 @@ This is an implementation for a function plotter.
 ## Table of contents
 
 1. [Prerequisites](#pre)
+2. [Structure](#struc)
+3. [Task Requirements Progress](#req")
+4. [Breaking down the requirements](#breakreq)
+    * [GUI](gui)
+    * [Input and Validation](#iv)
+    * [Plotting](#Plot)
+    * [Testing](#testi)
+5. [Progam OverView](#view)
+    * [Program GUI](#view01)
+    * [Enter Valid Values](#view02)
+    * [Graph](#view03)
+    * [Enter non numerical value as max or min](#view04)
+    * [Error message 1](#view05)
+    * [Enter Min value bigger than Max](#view06)
+    * [Error message 2](#view07)
+  
+6. [ToDo](#todo)
+7. [Bugs](#bugs)
+8. [Resources](#resorc)
+9. [Credits](#credits)
+10. [License](#lic)
 
 ### User enters
 
@@ -101,7 +128,7 @@ Then the app plots the graph on the specified range.
 * [x] eval function to get y values
 * [x] plot the graph
 
-### 4. Testing <a name="test"></a>
+### 4. Testing <a name="testi"></a>
 
 * [ ] unit test
 
