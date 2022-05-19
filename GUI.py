@@ -36,6 +36,8 @@ def plotbtn():
         inMax = float(inMax)
         inMin = float(inMin)
     except:
+        messagebox.showerror(
+            "Value Error!", "Max and Min must be number")
         print("Max and Min must be number")
 
     # check if max and min is correct

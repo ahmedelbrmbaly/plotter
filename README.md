@@ -74,8 +74,49 @@ Then the app plots the graph on the the spcifed range.
 * [x] eval function to get y values
 * [x] plot the graph
 
+### 4. Testing
+
+* [ ] unit test
+
 ## Progam OverView
+
+### Program GUI
+
+![GUI](snapshots\01.png)
+
+### Enter Valid Values
+
+![GUI](snapshots\02.png)
+
+### Graph
+
+![GUI](snapshots\03.png)
+
+### Enter non numerical value as max or min
+
+![GUI](snapshots\04.png)
+
+### Error message 1
+
+![GUI](snapshots\05.png)
+
+### Enter Min value bigger than Max
+
+![GUI](snapshots\06.png)
+
+### Error message 2
+
+![GUI](snapshots\07.png)
 
 ## ToDo
 
+* [] Fix Functional bugs
+* [] Testing
+* [] GUI Inhance
+* [] Build the program
+
 ## Bugs
+
+* [ ] we need to press exit twice
+* [ ] program doesn't stop after an error acuors
+* [ ] function validation
