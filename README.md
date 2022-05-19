@@ -82,6 +82,8 @@ Then the app plots the graph on the specified range.
 * [ ] Input Example as Placeholder
 * [ ] window fixed size
 * [ ] matplotlib embed in tkinter as a widget
+* [ ] give the plot a name
+* [ ] give the plot a title
 
 ### 2. Input and Validation
 
@@ -151,6 +153,22 @@ Then the app plots the graph on the specified range.
 * [ ] we need to press exit twice
 * [ ] program doesn't stop after an error acuors
 * [ ] function validation
+
+<br><br>
+
+## Resources
+
+* [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://youtu.be/YXPyB4XeYLA)
+
+* [Pyplot in Matplotlib - GeeksforGeeks](https://www.geeksforgeeks.org/plot-mathematical-expressions-in-python-using-matplotlib/)
+
+* [Pyplot in Matplotlib - GeeksforGeeks](https://www.geeksforgeeks.org/matplotlib-tutorial/#:~:text=the%20next%20section.-,Pyplot,plotting%20area%20in%20a%20figure.)
+
+<br><br>
+
+## Credits
+
+Prgram by [Ahmed Yasser Elbrmbaly](https://www.linkedin.com/in/ahmed-yasser-elbrmbaly/)
 
 <br><br>
 
