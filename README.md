@@ -1,3 +1,19 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/cmqZM1lFsKHqo/giphy.gif" width="200"/>
+</div>
+
+<br>
+<div id="badges" align="center">
+ <a href="#">
+    <img src="https://img.shields.io/badge/python-version?style=for-the-badge&logo=python&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-yasser-elbrmbaly/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+</div>
+<br><br>
+
 # Task01: Plotter
 
 This is an implemtation for a function plotter.
@@ -17,6 +33,13 @@ Then the app plots the graph on the the spcifed range.
 * tkinter
 * matplotlib
 * numpy
+<br><br>
+
+## Structure
+
+* **main.py** contains main function
+* **GUI.py** contains GUI Code
+* **Plotting.py** contains Plotting code
 <br><br>
 
 ## Task Requirements Progress
@@ -41,6 +64,8 @@ Then the app plots the graph on the the spcifed range.
 ![0%](https://progress-bar.dev/0/)
 10. Your code should be well organized and well documented.
 ![50%](https://progress-bar.dev/50/)
+
+<br><br>
 
 ## Breaking down the requirements
 
@@ -78,6 +103,8 @@ Then the app plots the graph on the the spcifed range.
 
 * [ ] unit test
 
+<br><br>
+
 ## Progam OverView
 
 ### Program GUI
@@ -108,6 +135,8 @@ Then the app plots the graph on the the spcifed range.
 
 ![07](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/07.png)
 
+<br><br>
+
 ## ToDo
 
 * [ ] Fix Functional bugs
@@ -115,8 +144,16 @@ Then the app plots the graph on the the spcifed range.
 * [ ] GUI Inhance
 * [ ] Build the program
 
+<br><br>
+
 ## Bugs
 
 * [ ] we need to press exit twice
 * [ ] program doesn't stop after an error acuors
 * [ ] function validation
+
+<br><br>
+
+## License
+
+The project is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License)
