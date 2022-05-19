@@ -55,8 +55,24 @@ Then the app plots the graph on the the spcifed range.
 * [x] Plot button
 * [x] Exit button
 * [ ] Input Example as Placeholder
-* [x] window fixed size
-* [x] matplotlib embed in tkinter as a widget
+* [ ] window fixed size
+* [ ] matplotlib embed in tkinter as a widget
+
+### 2. Input and Validation
+
+* [x] Function Input
+* [ ] Function Validation with re
+* [x] Max Input
+* [x] Max Validation
+* [x] Min Input
+* [x] Min Vlaidation
+
+### 3. Plotting
+
+* [x] Installing matplotlib
+* [x] getting range from GUI
+* [x] eval function to get y values
+* [x] plot the graph
 
 ## Progam OverView
 
