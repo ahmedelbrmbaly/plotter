@@ -82,31 +82,31 @@ Then the app plots the graph on the the spcifed range.
 
 ### Program GUI
 
-![GUI](snapshots\01.png)
+![GUI](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/01.png)
 
 ### Enter Valid Values
 
-![GUI](snapshots\02.png)
+![GUI](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots\02.png)
 
 ### Graph
 
-![GUI](snapshots\03.png)
+![GUI](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots\03.png)
 
 ### Enter non numerical value as max or min
 
-![GUI](snapshots\04.png)
+![GUI](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots\04.png)
 
 ### Error message 1
 
-![GUI](snapshots\05.png)
+![GUI](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots\05.png)
 
 ### Enter Min value bigger than Max
 
-![GUI](snapshots\06.png)
+![GUI](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots\06.png)
 
 ### Error message 2
 
-![GUI](snapshots\07.png)
+![GUI](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots\07.png)
 
 ## ToDo
 
