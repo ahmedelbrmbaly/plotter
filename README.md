@@ -19,6 +19,10 @@
 This is an implementation for a function plotter.
 <br>
 
+## Table of contents
+
+1. [Prerequisites](#pre)
+
 ### User enters
 
 * Polynomial Function
@@ -27,22 +31,23 @@ This is an implementation for a function plotter.
 Then the app plots the graph on the specified range.
 <br><br>
 
-## Prerequisites
+## Prerequisites <a name="pre"></a>
 
 * Python
 * tkinter
 * matplotlib
 * numpy
+* pyinstaller
 <br><br>
 
-## Structure
+## Structure <a name="struc"></a>
 
 * **main.py** contains main function
 * **GUI.py** contains GUI Code
 * **Plotting.py** contains Plotting code
 <br><br>
 
-## Task Requirements Progress
+## Task Requirements Progress <a name="req"></a>
 
 1. Write a GUI program that plots arbitrary user-entered functions.
 ![100%](https://progress-bar.dev/100/)
@@ -67,9 +72,9 @@ Then the app plots the graph on the specified range.
 
 <br><br>
 
-## Breaking down the requirements
+## Breaking down the requirements <a name="breakreq"></a>
 
-### 1. GUI
+### 1. GUI <a name="gui"></a>
 
 * [x] Function Label
 * [x] Function Entry
@@ -85,7 +90,7 @@ Then the app plots the graph on the specified range.
 * [ ] give the plot a name
 * [ ] give the plot a title
 
-### 2. Input and Validation
+### 2. Input and Validation <a name="iv"></a>
 
 * [x] Function Input
 * [ ] Function Validation with re
@@ -94,52 +99,52 @@ Then the app plots the graph on the specified range.
 * [x] Min Input
 * [x] Min Vlaidation
 
-### 3. Plotting
+### 3. Plotting <a name="plot"></a>
 
 * [x] Installing matplotlib
 * [x] getting range from GUI
 * [x] eval function to get y values
 * [x] plot the graph
 
-### 4. Testing
+### 4. Testing <a name="test"></a>
 
 * [ ] unit test
 
 <br><br>
 
-## Progam OverView
+## Progam OverView <a name="view"></a>
 
-### Program GUI
+### Program GUI <a name="view01"></a>
 
 ![01](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/01.png)
 
-### Enter Valid Values
+### Enter Valid Values <a name="view02"></a>
 
 ![02](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/02.png)
 
-### Graph
+### Graph <a name="view03"></a>
 
 ![03](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/03.png)
 
-### Enter non numerical value as max or min
+### Enter non numerical value as max or min <a name="view04"></a>
 
 ![04](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/04.png)
 
-### Error message 1
+### Error message 1 <a name="view05"></a>
 
 ![05](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/05.png)
 
-### Enter Min value bigger than Max
+### Enter Min value bigger than Max <a name="view06"></a>
 
 ![06](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/06.png)
 
-### Error message 2
+### Error message 2 <a name="view07"></a>
 
 ![07](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/07.png)
 
 <br><br>
 
-## ToDo
+## ToDo <a name="todo"></a>
 
 * [ ] Fix Functional bugs
 * [ ] Testing
@@ -148,7 +153,7 @@ Then the app plots the graph on the specified range.
 
 <br><br>
 
-## Bugs
+## Bugs <a name="bugs"></a>
 
 * [ ] we need to press exit twice
 * [ ] program doesn't stop after an error acuors
@@ -156,7 +161,7 @@ Then the app plots the graph on the specified range.
 
 <br><br>
 
-## Resources
+## Resources <a name="resorc"></a>
 
 * [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://youtu.be/YXPyB4XeYLA)
 
@@ -166,12 +171,12 @@ Then the app plots the graph on the specified range.
 
 <br><br>
 
-## Credits
+## Credits <a name="credits"></a>
 
 Prgram by [Ahmed Yasser Elbrmbaly](https://www.linkedin.com/in/ahmed-yasser-elbrmbaly/)
 
 <br><br>
 
-## License
+## License <a name="lic"></a>
 
 The project is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License)
