@@ -110,10 +110,10 @@ Then the app plots the graph on the the spcifed range.
 
 ## ToDo
 
-* [] Fix Functional bugs
-* [] Testing
-* [] GUI Inhance
-* [] Build the program
+* [ ] Fix Functional bugs
+* [ ] Testing
+* [ ] GUI Inhance
+* [ ] Build the program
 
 ## Bugs
 
