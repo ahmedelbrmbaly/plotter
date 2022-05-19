@@ -18,7 +18,15 @@
 # Task01: Plotter
 
 This is an implementation for a function plotter.
-<br>
+
+### User enters
+
+* Polynomial Function
+* Values Range
+
+Then the app plots the graph on the specified range.
+
+<br><br>
 
 ## Table of contents
 
@@ -45,12 +53,6 @@ This is an implementation for a function plotter.
 9. [Credits](#credits)
 10. [License](#lic)
 
-### User enters
-
-* Polynomial Function
-* Values Range
-
-Then the app plots the graph on the specified range.
 <br><br>
 
 ## Prerequisites <a name="pre"></a>
