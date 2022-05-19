@@ -82,31 +82,31 @@ Then the app plots the graph on the the spcifed range.
 
 ### Program GUI
 
-![GUI](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/01.png)
+![01](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/01.png)
 
 ### Enter Valid Values
 
-![GUI](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots\02.png)
+![02](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/02.png)
 
 ### Graph
 
-![GUI](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots\03.png)
+![03](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/03.png)
 
 ### Enter non numerical value as max or min
 
-![GUI](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots\04.png)
+![04](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/04.png)
 
 ### Error message 1
 
-![GUI](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots\05.png)
+![05](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/05.png)
 
 ### Enter Min value bigger than Max
 
-![GUI](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots\06.png)
+![06](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/06.png)
 
 ### Error message 2
 
-![GUI](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots\07.png)
+![07](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/07.png)
 
 ## ToDo
 
